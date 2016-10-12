@@ -1,0 +1,8 @@
+BEGIN TRANSACTION;
+CREATE TABLE `accounts` (
+	`_id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`name`	TEXT,
+	`email`	TEXT,
+	`url`	TEXT
+);
+COMMIT;

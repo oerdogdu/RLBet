@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912401503558",
+    "firebase_url": "https://rlbet-db91f.firebaseio.com",
+    "project_id": "rlbet-db91f",
+    "storage_bucket": "rlbet-db91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912401503558:android:98915d885e29746a",
+        "android_client_info": {
+          "package_name": "com.solstice.atoi.rlbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912401503558-tcdgpg06sgu9s6sqk678gnqvgtq7t5o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solstice.atoi.rlbet",
+            "certificate_hash": "FA67ADD936EB3A0670708A44626B8CAB9F7A4A50"
+          }
+        },
+        {
+          "client_id": "912401503558-cp3onkgkp63ef0o4ecki0tj88eim92pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcBc03UP-8lgRifyDusgHRsOmg3c07_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912401503558-cp3onkgkp63ef0o4ecki0tj88eim92pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

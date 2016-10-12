@@ -1,0 +1,9 @@
+BEGIN TRANSACTION;
+CREATE TABLE `schedule` (
+	`_id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`team1`	TEXT,
+	`team2`	TEXT,
+	`x1`	REAL,
+	`x2`	REAL
+);
+COMMIT;
